@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/tulsi-prasad/secrets#readme",
   "dependencies": {
+    "bcrypt": "^3.0.2",
     "body-parser": "^1.19.0",
     "dotenv": "^8.2.0",
     "ejs": "^2.7.1",
